@@ -17,8 +17,6 @@ Créez un tableau associatif représentant une équipe de Pokémon. Chaque Poké
 "Pikachu" => array("type" => "Électrique", "niveau" => 45)
 ```
 
-# Exercices de Programmation en PHP
-
 ## Exercice 5: Conditions et Fonctions
 Créez une fonction en PHP qui prend en paramètre le nombre de points marqués par une équipe dans un match de football. Affichez "Victoire" si l'équipe a marqué plus de 2 buts, "Match nul" s'ils ont marqué exactement 2 buts, sinon affichez "Défaite".
 

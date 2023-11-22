@@ -1,7 +1,7 @@
 # Exercices de Programmation en PHP
 
 ## Exercice 1: Boucles et Conditions
-Écrire un script PHP qui affiche tous les nombres de 1 à 50. Si le nombre est divisible par 3, affichez "Fizz" à la place. Si le nombre est divisible par 5, affichez "Buzz". Si le nombre est à la fois divisible par 3 et par 5, affichez "FizzBuzz". ensez à utiliser l'opérateur modulo %
+Écrire un script PHP qui affiche tous les nombres de 1 à 50. Si le nombre est divisible par 3, affichez "Fizz" à la place. Si le nombre est divisible par 5, affichez "Buzz". Si le nombre est à la fois divisible par 3 et par 5, affichez "FizzBuzz". Pensez à utiliser l'opérateur modulo %
 
 ## Exercice 2: Tableaux et Boucles
 Créer un tableau associatif représentant une liste d'étudiants avec leur note (sur 20). Ensuite, affichez la moyenne de la classe. Pensez à utilisez count()

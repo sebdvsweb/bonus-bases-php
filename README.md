@@ -1,13 +1,13 @@
 # Exercices de Programmation en PHP
 
 ## Exercice 1: Boucles et Conditions
-Écrire un script PHP qui affiche tous les nombres de 1 à 50. Si le nombre est divisible par 3, affichez "Fizz" à la place. Si le nombre est divisible par 5, affichez "Buzz". Si le nombre est à la fois divisible par 3 et par 5, affichez "FizzBuzz".
+Écrire un script PHP qui affiche tous les nombres de 1 à 50. Si le nombre est divisible par 3, affichez "Fizz" à la place. Si le nombre est divisible par 5, affichez "Buzz". Si le nombre est à la fois divisible par 3 et par 5, affichez "FizzBuzz". ensez à utiliser l'opérateur modulo %
 
 ## Exercice 2: Tableaux et Boucles
-Créer un tableau associatif représentant une liste d'étudiants avec leur note (sur 20). Ensuite, affichez la moyenne de la classe.
+Créer un tableau associatif représentant une liste d'étudiants avec leur note (sur 20). Ensuite, affichez la moyenne de la classe. Pensez à utilisez count()
 
 ## Exercice 3: Boucles et Conditions
-Écrire un script PHP qui génère un tableau de 10 nombres aléatoires entre 1 et 100. Ensuite, affichez le plus grand nombre du tableau et son index.
+Écrire un script PHP qui génère un tableau de 10 nombres aléatoires entre 1 et 100. Ensuite, affichez le plus grand nombre du tableau et son index. Pensez à utiliser max()
 
 ## Exercice 4: Tableaux et Boucles
 Créez un tableau associatif représentant une équipe de Pokémon. Chaque Pokémon a un nom, un type (Feu, Eau, Plante, etc.) et un niveau (entre 1 et 100). Affichez tous les Pokémon de l'équipe avec leur niveau. Ensuite, ajoutez 10 niveaux à chaque Pokémon et réaffichez l'équipe.
@@ -24,7 +24,7 @@ Créez une fonction en PHP qui prend en paramètre le nombre de points marqués 
 Écrire un script PHP qui génère la table de multiplication de 7 jusqu'à 10. Affichez le résultat sous la forme "7 x 1 = 7", "7 x 2 = 14", etc.
 
 ## Exercice 7: Tableaux et Boucles
-Créer un tableau de noms d'animaux. Affichez tous les animaux dont le nom commence par la lettre "C". Utilisez une boucle et une condition.
+Créer un tableau de noms d'animaux. Affichez tous les animaux dont le nom commence par la lettre "C". Utilisez une boucle et une condition. Utilisez substr()
 
 ## Exercice 8: Boucles et Conditions
 Écrire un script PHP qui calcule la somme des carrés des nombres de 1 à 10. Affichez le résultat.
